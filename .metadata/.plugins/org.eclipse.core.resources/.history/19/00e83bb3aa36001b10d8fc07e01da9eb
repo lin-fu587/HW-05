@@ -1,0 +1,10 @@
+package pc.sub;
+
+class Sample5_3
+{
+	public static void main(String[] args)
+	{
+		pb.Car car1=new pb.Car();
+		car1.show();
+	}
+}
